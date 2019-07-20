@@ -11,14 +11,15 @@
 
 用户注册与登陆
 
-https://github.com/YajueSP1919/socket_web/blob/master/gifs/s1.gif
+https://github.com/YajueSP1919/socket_web/blob/master/gifs/s1.gif?raw=true
 
 添加修改或删除备忘流程
 
-https://github.com/YajueSP1919/socket_web/blob/master/gifs/s2.gif
+https://github.com/YajueSP1919/socket_web/blob/master/gifs/s2.gif?raw=true
 
 添加修改或删除微博和评论
-https://github.com/YajueSP1919/socket_web/blob/master/gifs/s3.gif
+
+https://github.com/YajueSP1919/socket_web/blob/master/gifs/s3.gif?raw=true
 
 #部署环境
 –Python 3
