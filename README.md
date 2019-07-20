@@ -21,7 +21,8 @@
 
 ![img](https://github.com/YajueSP1919/socket_web/blob/master/gifs/s3.gif?raw=true)
 
-#部署环境
+# 部署环境
+
 –Python 3
 
 –MySQL
