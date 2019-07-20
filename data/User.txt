@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "guagua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 2,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 3,
+    "username": "rrrrrrrrr",
+    "password": "8609966f3c5220fa0f37d99a1712d126974f55e81051846e81a044e17e29a13c",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]

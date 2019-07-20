@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>吃瓜主页</title>
+</head>
+<body>
+    <h1>Hello {{ username }}</h1>
+    <h2>当前时间 {{ current_time | formatted_time }}</h2>
+    <a href="{{ url_for('user.register_view') }}">Register</a>
+    <a href="{{ url_for('user.login_view') }}">Login</a>
+    <a href="{{ url_for('todo.index') }}">Todo</a>
+    <a href="{{ url_for('weibo.index') }}">Weibo</a>
+    <img src="/static/doge.gif"/>
+    <img src="/static/doge1.jpg"/>
+    <img src="/static/doge2.gif"/>
+</body>
+</html>
