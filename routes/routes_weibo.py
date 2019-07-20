@@ -51,7 +51,7 @@ def delete():
     # 注意删除所有微博对应评论
     cs = Comment.all(weibo_id=weibo_id)
     for c in cs:
-        c.delete()
+        c.delete(c.id)
     return redirect('/weibo/index')
 
 @bp.route('/weibo/edit')

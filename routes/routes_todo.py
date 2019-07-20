@@ -63,13 +63,14 @@ def update():
     """
     用于增加新 todo 的路由函数
     """
-    form: ImmutableMultiDict = request.form
+    form = request.form
     log('request_form', form)
     log('form_to_dict', form.to_dict())
-    Todo.update(form)
+    Todo.update(**form.to_dict())
     # 浏览器发送数据过来被处理后, 重定向到首页
     # 浏览器在请求新首页的时候, 就能看到新增的数据了
     return redirect('/todo/index')
+
 
 
 def same_user_required(route_function):
