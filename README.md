@@ -11,15 +11,15 @@
 
 用户注册与登陆
 
-![](https://github.com/YajueSP1919/socket_web/tree/master/gifs/s1.gif)
+![img](https://github.com/YajueSP1919/socket_web/tree/master/gifs/s1.gif)
 
 添加修改或删除备忘流程
 
-![](https://github.com/YajueSP1919/socket_web/tree/master/gifs/s2.gif)
+![img](https://github.com/YajueSP1919/socket_web/tree/master/gifs/s2.gif)
 
 添加修改或删除微博和评论
 
-![](https://github.com/YajueSP1919/socket_web/tree/master/gifs/s3.gif)
+![img](https://github.com/YajueSP1919/socket_web/tree/master/gifs/s3.gif)
 
 # 部署环境
 
