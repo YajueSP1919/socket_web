@@ -11,7 +11,7 @@
 
 用户注册与登陆
 
-![img](https://github.com/YajueSP1919/socket_web/blob/master/gifs/s1.gif?raw=true)
+![img](https://github.com/YajueSP1919/socket_web/tree/master/gifs/s1.gif?raw=true)
 
 添加修改或删除备忘流程
 
