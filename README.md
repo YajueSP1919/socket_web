@@ -15,7 +15,7 @@
 
 添加修改或删除备忘流程
 
-![]https://github.com/YajueSP1919/socket_web/tree/master/gifs/s2.gif)
+![](https://github.com/YajueSP1919/socket_web/tree/master/gifs/s2.gif)
 
 添加修改或删除微博和评论
 
